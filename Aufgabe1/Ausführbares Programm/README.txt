@@ -1,0 +1,1 @@
+Um das letzte Beispiel berechnen zu können, braucht das Programm mehr Speicher, als ihm normalerweise zugewiesen wird. Deswegen muss das Programm, zur Berechnung des letzten Beispiels über die .bat Datei, in eine x64 Version von Java gestartet werden.
